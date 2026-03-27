@@ -5,9 +5,9 @@ Interactive waste management game built with SwiftUI for Apple Swift Student Cha
 EcoSort is a fast-paced, gamified iOS and macOS application designed to educate users on proper waste segregation through rapid visual association. 
 
 ## 📸 Preview
-<img width="1440" height="900" alt="Screenshot 2026-02-27 at 19 32 25" src="https://github.com/user-attachments/assets/b399c8fa-28ea-4b1a-b3c6-6bfca63e0eaf" />
-<img width="1440" height="900" alt="Screenshot 2026-02-26 at 14 57 36" src="https://github.com/user-attachments/assets/adf47932-a1e6-4edf-ba3f-42a5daf8f996" />
-<img width="1440" height="900" alt="Screenshot 2026-02-27 at 22 38 41" src="https://github.com/user-attachments/assets/4373d268-d931-40af-9249-77af7716ec17" />
+<img width="800" alt="Screenshot 2026-02-27 at 19 32 25" src="https://github.com/user-attachments/assets/b399c8fa-28ea-4b1a-b3c6-6bfca63e0eaf" />
+<img width="800" alt="Screenshot 2026-02-26 at 14 57 36" src="https://github.com/user-attachments/assets/adf47932-a1e6-4edf-ba3f-42a5daf8f996" />
+<img width="800" alt="Screenshot 2026-02-27 at 22 38 41" src="https://github.com/user-attachments/assets/4373d268-d931-40af-9249-77af7716ec17" />
 
 
 ## ✨ Features
